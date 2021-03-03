@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49bb0cf7-03cc-4850-a40d-114947b3189d" name="Default Changelist" comment="04 finished&#10;05 started" />
+    <list default="true" id="49bb0cf7-03cc-4850-a40d-114947b3189d" name="Default Changelist" comment="04 finished&#10;05 started">
+      <change afterPath="$PROJECT_DIR$/05 - Python Statements/exercice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - Python Statements/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/basic_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/interactions_between_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/logic_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/tuples_unpacking_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python Comparison Operators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Python Statements/for_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Python Statements/if_elif_else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Python Statements/useful_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Python Statements/while_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparison_operators.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +44,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.useful_operators">
-    <configuration name="if_elif_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.interactions_between_functions">
+    <configuration name="basic_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 Python Statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 Python Statements/if_elif_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/basic_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="useful_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 Python Statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 - Python Statements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 Python Statements/useful_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 - Python Statements/exercice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="interactions_between_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +98,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 Python Statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 Python Statements/while_loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/interactions_between_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logic_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/logic_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tuples_unpacking_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/tuples_unpacking_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,13 +155,30 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.useful_operators" />
-        <item itemvalue="Python.while_loops" />
-        <item itemvalue="Python.if_elif_else" />
+        <item itemvalue="Python.interactions_between_functions" />
+        <item itemvalue="Python.tuples_unpacking_function" />
+        <item itemvalue="Python.logic_function" />
+        <item itemvalue="Python.basic_function" />
+        <item itemvalue="Python.exercice" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="49bb0cf7-03cc-4850-a40d-114947b3189d" name="Default Changelist" comment="" />
@@ -137,6 +214,7 @@
                   </entry>
                 </map>
               </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -146,5 +224,39 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="04 finished&#10;05 started" />
     <option name="LAST_COMMIT_MESSAGE" value="04 finished&#10;05 started" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="184" key="#Notifications" timestamp="1614796947864">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="184" key="#Notifications/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614796947864" />
+    <state x="2613" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614797924891">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2613" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614797924891" />
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1614808158133">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614808158133" />
+    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1614808158133">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614808158133" />
+    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1614808158132">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614808158132" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1614808158133">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614808158133" />
+    <state x="2790" y="229" key="SettingsEditor" timestamp="1614796962933">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2790" y="229" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614796962933" />
+    <state x="2556" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1614796806417">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2556" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614796806417" />
   </component>
 </project>

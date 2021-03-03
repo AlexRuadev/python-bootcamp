@@ -34,6 +34,31 @@ mylist3 = [100, 200, 300, 400, 500, 600, 700]
 
 for item in zip(mylist1, mylist2, mylist3):
     print(item)
-# get back only a certaine list
+# get back values from a chosen list
 for a, b, c in zip(mylist1, mylist2, mylist3):
     print(c)
+
+# check if x is in the list
+print('x' in ['x', 'y', 'z'])
+
+# checking the max value from a list
+my_num_list = [10, 20, 30, 40, 880]
+print(max(my_num_list))
+
+# import a library, importing shuffle to shuffle a list, grabbing a random int
+from random import shuffle
+from random import randint
+
+mylist = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+shuffle(mylist)
+print(mylist)
+
+# Rand numbers 1-100
+my_rand = randint(0, 100)
+print(my_rand)
+
+# Inputs and questions
+result = input('Enter a number here: ')
+# storing our result as an integer
+result = int(result)
+print(result)
