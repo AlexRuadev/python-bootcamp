@@ -19,7 +19,6 @@ def animal_crackers(text):
     wordlist = text.lower().split()
     print(wordlist)
 
-
     return wordlist[0][0] == wordlist[1][0]
 
 
@@ -31,11 +30,11 @@ print(check2)
 
 # write a function that capitalizes the first and fourth letters of a name
 def old_macdonald(name):
-
     first_half = name[:3]
     second_part = name[3:]
 
     return first_half.capitalize() + second_part.capitalize()
+
 
 name = old_macdonald('macdonald')
 print(name)
