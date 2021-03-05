@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bb0cf7-03cc-4850-a40d-114947b3189d" name="Default Changelist" comment="04 finished&#10;05 started">
-      <change afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/map_filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/nested_statement_scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 - Milestone Project/tic_tac_toe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 - Python Methods and Functions/exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/06 - Python Methods and Functions/exercises.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 - Milestone Project/tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Milestone Project/tic_tac_toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,22 +233,22 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2594" y="134" key="#map_filters/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614882911538" />
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1614893760445">
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1614973927140">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614893760445" />
-    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1614893760445">
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927140" />
+    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1614973927139">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614893760445" />
-    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1614893760445">
+    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927139" />
+    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1614973927139">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614893760445" />
-    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1614893760445">
+    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927139" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1614973927139">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614893760445" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927139" />
     <state x="2556" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1614892414531">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
