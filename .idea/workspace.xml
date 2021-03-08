@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bb0cf7-03cc-4850-a40d-114947b3189d" name="Default Changelist" comment="04 finished&#10;05 started">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - Python OOP/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - Python OOP/inheritance_polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - Python OOP/special_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-bootcamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Milestone Project/tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Milestone Project/tic_tac_toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,29 +45,8 @@
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.tic_tac_toe">
-    <configuration name="args_kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/args_kwargs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exercise">
+    <configuration name="attributes_methods_class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 - Python OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - Python OOP/attributes_methods_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,28 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map_filters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/map_filters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nested_statement_scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="attributes_methods_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 - Python Methods and Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 - Python OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 - Python Methods and Functions/nested_statement_scope.py" />
+      <option name="SCRIPT_NAME" value="C:\xampp\htdocs\python-bootcamp\08 - Python OOP\attributes_methods_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +96,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07 - Milestone Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 - Python OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07 - Milestone Project/tic_tac_toe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - Python OOP/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inheritance_polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 - Python OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - Python OOP/inheritance_polymorphism.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="special_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 - Python OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - Python OOP/special_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tic_tac_toe" />
-        <item itemvalue="Python.nested_statement_scope" />
-        <item itemvalue="Python.map_filters" />
-        <item itemvalue="Python.exercises" />
-        <item itemvalue="Python.args_kwargs" />
+        <item itemvalue="Python.exercise" />
+        <item itemvalue="Python.special_methods" />
+        <item itemvalue="Python.inheritance_polymorphism" />
+        <item itemvalue="Python.attributes_methods_class (1)" />
+        <item itemvalue="Python.attributes_methods_class" />
       </list>
     </recent_temporary>
   </component>
@@ -225,37 +228,46 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2472" y="184" key="#Notifications/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614892274798" />
-    <state x="2637" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614886876317">
+    <state x="2637" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615231381194">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2637" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614886876317" />
+    <state x="2637" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615231381194" />
     <state x="2594" y="134" key="#map_filters" timestamp="1614882911538">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2594" y="134" key="#map_filters/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614882911538" />
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1614973927140">
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1615233582051">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927140" />
-    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1614973927139">
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615233582051" />
+    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1615233582050">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927139" />
-    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1614973927139">
+    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615233582050" />
+    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1615233582050">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927139" />
-    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1614973927139">
+    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615233582050" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1615233582050">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614973927139" />
-    <state x="2556" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1614892414531">
+    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615233582050" />
+    <state x="2556" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1615231316970">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2556" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614892414531" />
+    <state x="636" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1615138449445" />
+    <state x="2556" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615231316970" />
+    <state x="2501" y="46" width="758" height="957" key="find.popup" timestamp="1615064684197">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2501" y="46" width="758" height="957" key="find.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615064684197" />
     <state x="2582" y="299" key="git4idea.merge.GitPullDialog" timestamp="1614882399717">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2582" y="299" key="git4idea.merge.GitPullDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614882399717" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1615139850201">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615139850201" />
   </component>
 </project>
