@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bb0cf7-03cc-4850-a40d-114947b3189d" name="Default Changelist" comment="04 finished&#10;05 started">
-      <change afterPath="$PROJECT_DIR$/11 - Milestone Project 2/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - Python Generators/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-bootcamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="features.milestone2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,30 +39,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.blackjack">
-    <configuration name="attributes_methods_class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 - Python OOP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - Python OOP/attributes_methods_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.generators">
     <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - Python OOP/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13 - Python Generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13 - Python Generators/generators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generators" />
         <item itemvalue="Python.blackjack" />
         <item itemvalue="Python.exercise" />
         <item itemvalue="Python.special_methods" />
         <item itemvalue="Python.inheritance_polymorphism" />
-        <item itemvalue="Python.attributes_methods_class (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614775987228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="04 finished&#10;05 started">
+      <created>1615919700063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615919700063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,70 +215,15 @@
                   </entry>
                 </map>
               </option>
-              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="04 finished&#10;05 started" />
     <option name="LAST_COMMIT_MESSAGE" value="04 finished&#10;05 started" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2472" y="184" key="#Notifications" timestamp="1614892274798">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2472" y="184" key="#Notifications/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614892274798" />
-    <state x="2637" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615231381194">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2637" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615231381194" />
-    <state x="2594" y="134" key="#map_filters" timestamp="1614882911538">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2594" y="134" key="#map_filters/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614882911538" />
-    <state x="2532" y="20" key="CommitChangelistDialog2" timestamp="1615411234356">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2532" y="20" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615411234356" />
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1615410366533">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615410366533" />
-    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1615410366533">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615410366533" />
-    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1615410366533">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615410366533" />
-    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1615410366533">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615410366533" />
-    <state x="2472" y="254" key="Vcs.Push.Dialog.v2" timestamp="1615411246553">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2472" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615411246553" />
-    <state x="2556" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1615408741069">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="636" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1615138449445" />
-    <state x="2556" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615408741069" />
-    <state x="2501" y="46" width="758" height="957" key="find.popup" timestamp="1615064684197">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2501" y="46" width="758" height="957" key="find.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615064684197" />
-    <state x="2582" y="299" key="git4idea.merge.GitPullDialog" timestamp="1614882399717">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2582" y="299" key="git4idea.merge.GitPullDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1614882399717" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1615139850201">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1615139850201" />
   </component>
 </project>
