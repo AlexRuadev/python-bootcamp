@@ -21,7 +21,6 @@ for match in re.finditer('phone', text):
     print(match.span())
     print(match.group())
 
-
 # get our phone form
 text = "The agent's phone number is 408-555-1234. Call soon"
 
@@ -33,7 +32,6 @@ print(phone)
 # printing the phone number itself
 print(phone.group())
 
-
 # using quantifiers to simulate a repetition of the same character
 phone = re.search(r'\d{3}-\d{3}-\d{4}', text)
 print(phone)
@@ -41,9 +39,24 @@ print(phone)
 # taking multiple pattern code, each pattern codes are separated as a group with parenthesis and it compiles them in
 # a single regular expression
 phone_pattern = re.compile(r'(\d{3})-(\d{3})-(\d{4})')
-results = re.search(phone_pattern,text)
+results = re.search(phone_pattern, text)
 print(results.group())
-# Returning each group indiviually
+
+# Returning each group individually
 print(results.group(1))
 print(results.group(2))
 print(results.group(3))
+
+# Adiddtional regex syntax
+
+#  Will return cat or dog
+x = re.search(r"cat|dog", "The dog is here")
+print(x)
+
+#  Will return the letter before 'at' in our var x
+x = re.findall(r".at", "The cat in the hat went splat")
+print(x)
+
+#  Will return 3 letters before 'at' in our var x
+x = re.findall(r"...at", "The cat in the hat went splat")
+print(x)
