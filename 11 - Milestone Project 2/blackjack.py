@@ -117,7 +117,7 @@ def take_bet(chips):
     while True:
         try:
             chips.bet = int(input("How many chips would you like to bet? "))
-        except:
+        except ValueError:
             print("Sorry please provide an integer")
         else:
             if chips.bet > chips.total:
@@ -144,11 +144,13 @@ def hit_or_stand(deck, hand):
 
         if x[0].lower() == 'h':
             hit(deck, hand)
-        elif x[0].lower == 's':
+        elif x[0].lower() == 's':
             print("Player Stands, Dealer's turn")
             playing = False
         else:
             print("Sorry, I didn't understand that, Please enter h or s only")
+            continue
+        break
 
 
 # Write function to display cards
